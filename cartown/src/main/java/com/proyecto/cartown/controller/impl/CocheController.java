@@ -15,20 +15,14 @@ import java.util.Optional;
 
 @RestController
 @CrossOrigin
-
 public class CocheController implements CocheAPI {
-
-    @Autowired
-    private CocheRepository cocheRepository;
 
     @Autowired
     private CocheServices cocheServices;
 
-
     @Override
     public ResponseEntity<List<CocheDTO>> getAll() {
         return  ResponseEntity.ok( cocheServices.getAll());
-
     }
 
     @Override
@@ -42,7 +36,7 @@ public class CocheController implements CocheAPI {
     }
 
     @Override
-    public ResponseEntity<Boolean> delete(int id) {
+    public ResponseEntity<Boolean> delete(String id) {
         return cocheServices.delete( id )
                 ? ResponseEntity.ok( true )
                 : new ResponseEntity <>( false, HttpStatus.NOT_FOUND );

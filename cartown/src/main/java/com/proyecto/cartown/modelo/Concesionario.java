@@ -7,25 +7,22 @@ import org.springframework.data.mongodb.core.index.Indexed;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.io.Serializable;
-import java.util.ArrayList;
+import java.util.List;
 
 @Getter
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-@Document(collection="Coche")
-public class Coche implements Serializable {
+@Document(collection="Concesionario")
+public class Concesionario implements Serializable {
+
 
     @Id
     private String id;
-    private String marca;
-    private String modelo;
-    private String color;
-    private int potencia;
-    private String combustible;
-    private ArrayList<String> imagenes;
-    private int plazas;
-    private String marchas;
+    private String nombre;
+    private String direccion;
+    private String numero;
+    private List<Coche> coches;
 
 }

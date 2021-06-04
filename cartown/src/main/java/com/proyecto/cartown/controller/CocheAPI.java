@@ -22,7 +22,7 @@ public interface CocheAPI {
     ResponseEntity< CocheDTO > update( @RequestBody final CocheDTO cocheDTO );
 
     @DeleteMapping( EndPointUris.ID )
-    ResponseEntity< Boolean > delete( @PathVariable final int id );
+    ResponseEntity< Boolean > delete( @PathVariable final String id );
 
     @DeleteMapping
     ResponseEntity<Boolean> deleteAllCoches();

@@ -16,7 +16,9 @@ public class ConvertCocheToCocheDTO implements Converter<Coche, CocheDTO > {
                 .color(coche.getColor() )
                 .potencia(coche.getPotencia())
                 .combustible(coche.getCombustible())
-                .sensores(coche.getSensores())
+                .imagenes(coche.getImagenes())
+                .plazas(coche.getPlazas())
+                .marchas(coche.getMarchas())
                 .build();
     }
 }

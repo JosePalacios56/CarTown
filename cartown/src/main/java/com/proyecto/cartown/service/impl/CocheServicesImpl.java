@@ -44,7 +44,7 @@ public class CocheServicesImpl implements CocheServices {
     }
 
     @Override
-    public Boolean delete(int id) {
+    public Boolean delete(String id) {
         try{
             cocheRepository.deleteById(id);
             return Boolean.TRUE;
