@@ -1,0 +1,71 @@
+[{
+  "_id": "2",
+  "marca": "Opel",
+  "modelo": "Astra",
+  "color": "Gris oscuro",
+  "potencia": 120,
+  "combustible": "Gasolina",
+  "imagenes": [
+    "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=front&i=2021D/0B/0BG68__EJ61/GR5/4AA_A51_A64_AER_AG5_AH3_AKP_AKX_AQPv01_BASEv01_BLACK-MIRROR-LHD_BRANDv01_BX4_BX4-RPO_C67_CE1_CO9_CR16_CWDM_D31v01_D75_DBU_DIFFUSORv01_DWE_FRONTBUMPERv01_FRONTGRILLv01_GLASS-FRONT-LHD_GLASS-REARv01_GR5-FRONTBUMPERv01_GR5-KEYv01_GR5-PAINT_GR5-REARBUMPERv02_GR5-ROOF_GROUNDSHADOW_H0U_HEATINGv01_HEATINGv02_J67_J67-RPO_J69_K33_KEYv01_LOGO_MDB_MDB-RPO_N34_N37_NAMEPLATEv01_OLD_PWNv01_PWNv03_RLK_T3S_T43_T4A_T4A-ON_TAQEv01_TIRE16_TL2_TL2-RPO_U18_U2Q_U91v01_UC3_UD7_UDC_UGE_UGE-ON_UHH_WIPERv01ngstdzoom.jpg&std=true&country=ES&brand=opel&channel=b2c&phase=phase3bng&quality=0.8",
+    "https://mmg.opel.de/mmgprod/dynres/prove/imageinterior.gen?v=front&i=2021D/0B/0BG68__EJ61/TAQE/GR5/4AA_4AA-RPO_A51_A64_AEF_AER_AG5_AG5-RPO_AH3v01_AJC_AKP_AKX_AQPv01_AXG_AYC_BADGEv01_BLACK-MIRROR_C67v01_C93v01_CE1_CO9_CR16_CSWv04_D31_D31-RPO_D6Iv01_DBU_DBU-RPO_DECORC42v01_DECORCSWv01_DECORv05_DWE_FX3_GLASS-FRONT-LHD_GLASS-REARv01_GR5-PAINT_H0U_INDICATORv03_IOR-MULTI_J69v01_K33_KTM_MCY_MT6_N34v04_N37_NJ0_OLD_ROOFv01_S900_T43_T4A_T4A-RPO_TAQE-A51-SEATLEFT_TAQE-A51-SEATREAR_TAQE-A51-SEATRIGHT_TR0v01_TR6_TSP_TTW_U18_U2Q_U91_UC3v01_UD7_UDCv02_UHH_ULX_ULX-RPO_UZ6_WINGv01_WIPERv02ngstdzoom.jpg&std=true&country=ES&brand=opel&channel=b2c&color=GR5&phase=phase3bng&quality=0.8"
+  ],
+  "plazas": 5,
+  "marchas": "Manual",
+  "_class": "com.proyecto.cartown.modelo.Coche"
+},{
+  "_id": "1",
+  "marca": "Opel",
+  "modelo": "Corsa",
+  "color": "Naranja",
+  "potencia": 100,
+  "combustible": "Diesel",
+  "imagenes": [
+    "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=angle01&i=2021C/0A/0AC48__ED11/GPQ/4AA_A51_A64_ADD_AKP_AKX_AQP_ATG_BADGE-OPL_BASE_BPILLAR_BRAND-OPL-LHD_C0I_C25_C25-FRONT_C25-REAR_C67_C67-LHD_C95_CD4_CR20_CWCX_D31_D31-FRONT_D31-REAR_D55_D75_D91_DLS_DLS-FRONT_DLS-REAR_DP6_DP6-FRONT_DP6-REAR_EXHAUST_FE2_FOGLAMP-T79_FWD_GLASS-FRONT-LHD_GLASS-REARv01_GPQ-D75-LHD_GPQ-FRONTBUMPER_GPQ-FULLROOF_GPQ-PAINT_GPQ-REARBUMPER_GRILLE-TL6_GROUNDSHADOW_H1T_HEATINGWIRE-FRONT_HEATINGWIRE-REAR_IMA_IMA-LHD_IOB_IOB-LHD_J69_JQ4_JQ4-RPO_K34_K34-LHD_LHD_M0E-LHD_MDB_MDB-RPO_N37_N37-LHD_N54_N54-LHD_NAMEPLATE-OPL_NPH_NTO_OLD_PRIMER-TRUNK-FRONT_PRIMER-TRUNK-REAR_REARBADGE_RI0_RRZ-OPL_T4A_T4A-ON_T79_TAVE-A51-SEATLEFT-LHD_TAVE-A51-SEATRIGHT-LHD_TAVE-AQP-LHD_TAVE-LHD_TIRE16_TL6_TR1_TR1-ON_TS6_TS6-RPO_U18_U2Q_U91_U91-RPO_UC3_UC3-LHD_UDD_UDD-U18-LHD_UEU_UHH_UHX_UHY_UJO_UKJ_VEE_W5T_WIPER-LHD_WLZ_WLZ-RPOngstdzoom.jpg&std=true&country=ES&brand=opel&channel=b2c&phase=phase3bng&quality=0.8",
+    "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=angle04&i=2021C/0A/0AC48__ED11/GPQ/4AA_A51_A64_ADD_AKP_AKX_AQP_ATG_BADGE-OPL_BASE_BPILLAR_BRAND-OPL-LHD_C0I_C25_C25-FRONT_C25-REAR_C67_C67-LHD_C95_CD4_CR20_CWCX_D31_D31-FRONT_D31-REAR_D55_D75_D91_DLS_DLS-FRONT_DLS-REAR_DP6_DP6-FRONT_DP6-REAR_EXHAUST_FE2_FOGLAMP-T79_FWD_GLASS-FRONT-LHD_GLASS-REARv01_GPQ-D75-LHD_GPQ-FRONTBUMPER_GPQ-FULLROOF_GPQ-PAINT_GPQ-REARBUMPER_GRILLE-TL6_GROUNDSHADOW_H1T_HEATINGWIRE-FRONT_HEATINGWIRE-REAR_IMA_IMA-LHD_IOB_IOB-LHD_J69_JQ4_JQ4-RPO_K34_K34-LHD_LHD_M0E-LHD_MDB_MDB-RPO_N37_N37-LHD_N54_N54-LHD_NAMEPLATE-OPL_NPH_NTO_OLD_PRIMER-TRUNK-FRONT_PRIMER-TRUNK-REAR_REARBADGE_RI0_RRZ-OPL_T4A_T4A-ON_T79_TAVE-A51-SEATLEFT-LHD_TAVE-A51-SEATRIGHT-LHD_TAVE-AQP-LHD_TAVE-LHD_TIRE16_TL6_TR1_TR1-ON_TS6_TS6-RPO_U18_U2Q_U91_U91-RPO_UC3_UC3-LHD_UDD_UDD-U18-LHD_UEU_UHH_UHX_UHY_UJO_UKJ_VEE_W5T_WIPER-LHD_WLZ_WLZ-RPOngstdzoom.jpg&std=true&country=ES&brand=opel&channel=b2c&phase=phase3bng&quality=0.8"
+  ],
+  "plazas": 5,
+  "marchas": "Manual",
+  "_class": "com.proyecto.cartown.modelo.Coche"
+},{
+  "_id": "3",
+  "marca": "Opel",
+  "modelo": "Mokka",
+  "color": "Verde",
+  "potencia": 150,
+  "combustible": "Diesel",
+  "imagenes": [
+    "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=front&i=2021C/0M/0MC76__EU61/GGI/4AA_AR7_ATG_B26_BADGE-OPL_BASE_BHU_BHU-RPO_BRAND-OPL-LHD_C67_CD4_CD4-LHD_CR12_CWAR_D31_D31-FRONT_D31-REAR_D55_D55-RPO_D81_D81-RPO_DASHBOARD-7-LHD_DECOR-IMA-LHD_DOORINSERT-TAWC_EXHAUST-SINGLE_FE2_FWD_GGI-ATG-LHD_GGI-FRONTBUMPER_GGI-FULLROOF_GGI-PAINT_GGI-REARBUMPER_GGI-SKIDPLATE_GLASSFRONT_GLASSREAR_GROUNDSHADOW_H1T_HEATINGWIRE-FRONT_HEATINGWIRE-REAR_IMA_IO5_IO5-CR12-LHD_JAB_JAB-RPO_K34_K34-LHD_LETTERING-MOKKA_MDT_MDT-RPO_MIRRORCAPS-BLACK_MT6-M0F_N35_N35-LHD_N37_NAMEPLATE-OPL_PRIMER-FRONT_PRIMER-REAR_PRIMER-TRUNK-FRONT_PRIMER-TRUNK-REAR_QAH_SNTO_STEERINGWHEELSTALK-LHD_T3S_T4L_T4L-OFF_T4L-ON_TAWC-LHD_TIRE16_TQ5_TQ5-RPO-LHD_U18_U18-7-LHD_U2Q_U91_U91-RPO_UDY_UGE_UGE-ON_UHS_UHX_UHY_UJO_UKJ_UVX_WIPERFRONT-LHD_WIPERREAR-FRONT_WIPERREAR-REAR_WR6-OPLngstdzoom.jpg&std=true&country=ES&brand=opel&channel=b2c&phase=phase3bng&quality=0.8",
+    "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=rear&i=2021C/0M/0MC76__EU61/GGI/4AA_AR7_ATG_B26_BADGE-OPL_BASE_BHU_BHU-RPO_BRAND-OPL-LHD_C67_CD4_CD4-LHD_CR12_CWAR_D31_D31-FRONT_D31-REAR_D55_D55-RPO_D81_D81-RPO_DASHBOARD-7-LHD_DECOR-IMA-LHD_DOORINSERT-TAWC_EXHAUST-SINGLE_FE2_FWD_GGI-ATG-LHD_GGI-FRONTBUMPER_GGI-FULLROOF_GGI-PAINT_GGI-REARBUMPER_GGI-SKIDPLATE_GLASSFRONT_GLASSREAR_GROUNDSHADOW_H1T_HEATINGWIRE-FRONT_HEATINGWIRE-REAR_IMA_IO5_IO5-CR12-LHD_JAB_JAB-RPO_K34_K34-LHD_LETTERING-MOKKA_MDT_MDT-RPO_MIRRORCAPS-BLACK_MT6-M0F_N35_N35-LHD_N37_NAMEPLATE-OPL_PRIMER-FRONT_PRIMER-REAR_PRIMER-TRUNK-FRONT_PRIMER-TRUNK-REAR_QAH_SNTO_STEERINGWHEELSTALK-LHD_T3S_T4L_T4L-OFF_T4L-ON_TAWC-LHD_TIRE16_TQ5_TQ5-RPO-LHD_U18_U18-7-LHD_U2Q_U91_U91-RPO_UDY_UGE_UGE-ON_UHS_UHX_UHY_UJO_UKJ_UVX_WIPERFRONT-LHD_WIPERREAR-FRONT_WIPERREAR-REAR_WR6-OPLngstdzoom.jpg&std=true&country=ES&brand=opel&channel=b2c&phase=phase3bng&quality=0.8"
+  ],
+  "plazas": 5,
+  "marchas": "Automaticas",
+  "_class": "com.proyecto.cartown.modelo.Coche"
+},{
+  "_id": "4",
+  "marca": "Renault",
+  "modelo": "Megane E-Tech Hibrido",
+  "color": "Blanco",
+  "potencia": 120,
+  "combustible": "Electrico y Diesel",
+  "imagenes": [
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/megane/megane-bfb-ph2-e-tech/editorial-2560x1440/renault-megane4-ph2-etech-001.jpg.ximg.mediumx2.webp/0fc1f58b13.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/megane/megane-bfb-ph2-e-tech/editorial-2560x1440/renault-megane4-ph2-etech-002.jpg.ximg.mediumx2.webp/e3fcab2eec.webp"
+  ],
+  "plazas": 5,
+  "marchas": "Manual",
+  "_class": "com.proyecto.cartown.modelo.Coche"
+},{
+  "_id": "5",
+  "marca": "Audi",
+  "modelo": "TT Coupé",
+  "color": "Gris",
+  "potencia": 145,
+  "combustible": "Diesel",
+  "imagenes": [
+    "https://www.audi.es/content/dam/nemo/models/tt/tt-coupe/my-2019/1920x1080-inline-media-gallery/1920x1080-ATT_181010.tif-EXCLUSIVE.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.es/content/dam/nemo/models/tt/tt-coupe/my-2019/1920x1080-inline-media-gallery/1920x1080-ATT_181006.jpg?output-format=webp&downsize=1459px:*"
+  ],
+  "plazas": 2,
+  "marchas": "Manual",
+  "_class": "com.proyecto.cartown.modelo.Coche"
+}]
